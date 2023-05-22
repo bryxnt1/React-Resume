@@ -17,11 +17,6 @@ export const ProjectList = [
     skills: "React,Node.js,MySQL,Knox",
   },
   {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
     name: "Browser Slot Machine",
     image: Proj6,
     skills: "React Native,JavaScript,HTML,CSS",
